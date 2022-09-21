@@ -17,7 +17,3 @@ Path to the workspace. Defaults to the current directory.
 `-q`, `--quiet`
 
 Do it silently.
-
-`--fix <PACKAGE>` (Deprecated)
-
-Run make for an installed package.
