@@ -1,6 +1,8 @@
-# init
+---
+description: Initialize an existing Beef workspace with Grill
+---
 
-Initialize an existing Beef workspace with Grill.
+# init
 
 ### USAGE
 

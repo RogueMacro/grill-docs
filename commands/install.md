@@ -1,6 +1,8 @@
-# install
+---
+description: Install a package into BeefLibs
+---
 
-Install a package into BeefLibs.
+# install
 
 > **Note:** The functionality of this command may be changed in a feature release to install binaries (custom grill commands) instead of BeefLibs.
 

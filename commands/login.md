@@ -1,6 +1,8 @@
-# login
+---
+description: Login through the CLI
+---
 
-Login through the CLI.
+# login
 
 Used for publishing packages.
 

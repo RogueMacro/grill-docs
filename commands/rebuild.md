@@ -1,6 +1,8 @@
-# rebuild
+---
+description: Run the build script for this package
+---
 
-Run the build script for this package.
+# rebuild
 
 ### USAGE
 

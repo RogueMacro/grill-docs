@@ -1,6 +1,8 @@
-# update
+---
+description: Update dependencies to the latest version
+---
 
-Update dependencies to the latest version.
+# update
 
 ### USAGE
 

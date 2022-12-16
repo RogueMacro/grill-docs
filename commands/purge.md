@@ -1,6 +1,8 @@
-# purge
+---
+description: Delete all installed dependencies for this package
+---
 
-Delete all installed dependencies for this package.
+# purge
 
 ### USAGE
 

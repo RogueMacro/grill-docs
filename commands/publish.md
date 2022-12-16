@@ -1,6 +1,8 @@
-# publish
+---
+description: Publish the current package version
+---
 
-Publish the current package version.
+# publish
 
 ### USAGE
 

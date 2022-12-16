@@ -1,6 +1,8 @@
-# new
+---
+description: Create a new package and run make
+---
 
-Create a new package and run make.
+# new
 
 Will by default create a console application if not `--lib` or `--gui` is passed.
 

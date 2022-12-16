@@ -1,6 +1,8 @@
-# make
+---
+description: Fetch missing dependencies and generate a workspace
+---
 
-Installs missing dependencies and generates a workspace.
+# make
 
 ### USAGE
 

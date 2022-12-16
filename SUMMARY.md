@@ -11,6 +11,7 @@
 
 ## Commands
 
+* [add](commands/add.md)
 * [init](commands/init.md)
 * [install](commands/install.md)
 * [list](commands/list.md)

@@ -1,6 +1,8 @@
-# list
+---
+description: List all installed dependencies for this package
+---
 
-List all installed dependencies for this package.
+# list
 
 ### USAGE
 
