@@ -1,5 +1,5 @@
 ---
-description: List all installed dependencies for this package
+description: (NOT IMPLEMENTED) List all installed dependencies for this package
 ---
 
 # list

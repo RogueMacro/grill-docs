@@ -1,3 +1,7 @@
+---
+description: (NOT IMPLEMENTED)
+---
+
 # Build scripts
 
 Build scripts in Grill are self-contained projects inside your package used for preparing the package upon installation or rebuild. For example to build a system library.&#x20;

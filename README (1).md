@@ -2,4 +2,4 @@
 
 ### Installation
 
-Download and install the latest release of Grill from [GitHub](https://github.com/roguemacro/grill/releases/latest).
+Download and install the latest release of Grill from [GitHub](https://github.com/RogueMacro/grill/releases).

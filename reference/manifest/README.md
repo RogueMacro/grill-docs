@@ -1,6 +1,6 @@
 # Manifest
 
-The manifest is the <mark style="color:yellow;">`Package.toml`</mark> file in every package. It contains all the information Grill needs to know about your package. A minimal manifest requires three fields. <mark style="color:orange;">`Name`</mark>, <mark style="color:orange;">`Version`</mark> <mark style="color:orange;"></mark><mark style="color:orange;"></mark> and <mark style="color:orange;">`Description`</mark>. For example:
+The manifest is the <mark style="color:yellow;">`Package.toml`</mark> file in every package. It contains all the information Grill needs to know about your package. A minimal manifest requires three fields. <mark style="color:orange;">`Name`</mark>, <mark style="color:orange;">`Version`</mark> and <mark style="color:orange;">`Description`</mark>. For example:
 
 ```toml
 [Package]
@@ -35,7 +35,7 @@ You can specify which features you want to enable for that specific dependencies
 ImGui = { Version = "1.88", Features = ["OpenGL", "GLFW"] }
 ```
 
-A package might have some default features enabled. You can disable these with the <mark style="color:orange;">`DefaultFeatures`</mark> <mark style="color:orange;"></mark><mark style="color:orange;"></mark> bool.
+A package might have some default features enabled. You can disable these with the <mark style="color:orange;">`DefaultFeatures`</mark> bool.
 
 ```toml
 ...
@@ -62,3 +62,17 @@ Local dependencies are specified by path.
 [Dependencies]
 MyUtilities = { Path = "./path/to/project" }
 ```
+
+## Workspaces
+
+If your root package does not include all packages you want in your workspace, or you want to change the startup project, you can do so in the `[Workspace]` section.
+
+```
+[Workspace]
+Members = ["path/to/app"]
+StartupProject = "app"
+```
+
+`Members` is a list of paths to packages you want included in the workspace.
+
+`StartupProject` is the name of the startup project.

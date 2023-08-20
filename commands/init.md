@@ -1,5 +1,5 @@
 ---
-description: Initialize an existing Beef workspace with Grill
+description: (NOT IMPLEMENTED) Initialize an existing Beef workspace with Grill
 ---
 
 # init

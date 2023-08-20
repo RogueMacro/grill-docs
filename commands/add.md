@@ -1,5 +1,5 @@
 ---
-description: Add one or more packages to a workspace
+description: (NOT IMPLEMENTED) Add one or more packages to a workspace
 ---
 
 # add

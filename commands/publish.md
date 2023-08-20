@@ -1,5 +1,5 @@
 ---
-description: Publish the current package version
+description: (Only in v0.2.3) Publish the current package version
 ---
 
 # publish

@@ -1,5 +1,5 @@
 ---
-description: Login through the CLI
+description: (NOT IMPLEMENTED) Login through the CLI
 ---
 
 # login

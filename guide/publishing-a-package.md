@@ -1,3 +1,7 @@
+---
+description: Currently only available in v0.2.3
+---
+
 # Publishing a package
 
 Publishing a package is only supported for git repositories. Preferably hosted on GitHub.

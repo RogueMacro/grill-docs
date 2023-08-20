@@ -4,6 +4,8 @@ To create a new console application, run:
 
 ```
 $ grill new MyProject
+$ cd MyProject
+$ grill make
         Make MyProject v0.1.0
 
        [1/4] 🧭 Up to date ✔

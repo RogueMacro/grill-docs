@@ -1,5 +1,5 @@
 ---
-description: Delete all installed dependencies for this package
+description: (NOT IMPLEMENTED) Delete all installed dependencies for this package
 ---
 
 # purge
